@@ -1,0 +1,8 @@
+body {
+    background-color: red;
+    transition: 0.5s;
+
+    &:hover {
+        background-color: green;
+    }
+}
