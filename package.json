@@ -10,11 +10,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@reduxjs/toolkit": "^2.4.0",
     "@tanstack/react-query": "^5.62.3",
     "axios": "^1.7.9",
     "frutils.js": "^1.0.70",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-redux": "^9.1.2",
     "sass": "^1.82.0"
   },
   "devDependencies": {
